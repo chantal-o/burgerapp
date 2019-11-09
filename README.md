@@ -11,10 +11,11 @@ The app will store every burger in a database, whether devoured or not.
 
 Technologies Used:
 
-Javascript
-nodeJS
-MySQL
-Handlebars
+Javascript,
+nodeJS,
+MySQL,
+Handlebars,
+
 npm packages:
 
-mysql path body-parser express handlebars
+mysql/path/body-parser/express/handlebars
